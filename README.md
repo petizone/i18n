@@ -1,2 +1,2 @@
-# i18n
+# PetiZone: i18n
 PetiZone çeviri dosyaları, farklı dil çevirileri için buraya bakabilirsiniz.
